@@ -1,0 +1,9 @@
+I as in the wrong direction for the ea so asked paul-raphael, what shoud I make evolutionari in this lab.
+So here the answer is to choose which strategy to use each turn with a weigth system
+I ultimatly used his code and try tweaking it
+
+the result tend to sometimes not really avantage optimal strategy and disavantage pure_random, But gabriella is also sometimes in the middle
+maybe it is due to too much mutation probability
+
+In a way, using ea in this way is not efficient to make the ultimate strategie, but it can be used to make different difficulty
+lvl for an ordi opponent. The tweak of buffing or debuffing can be made by ea instead of doing it by hand.
