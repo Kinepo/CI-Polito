@@ -1,1 +1,1 @@
-My work on the Quixo game with Paul raphael and Alexandre
+work on the Quixo game with Paul raphael, Salma and Alexandre
